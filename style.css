@@ -1,0 +1,47 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua
+}
+
+.imgstorage {
+    display: flex;
+    justify-content: center
+}
+
+.imgstorage2 {
+    display: flex;
+    justify-content: center
+}
+
+.img {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige
+}
+
+.img2 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige
+}
+
+.img3 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige
+}
+
+.img4 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige
+}
+
+div {
+    margin-top: 15px
+}
